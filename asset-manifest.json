@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stem4all/static/css/main.cb24ed6d.css",
+    "main.js": "/stem4all/static/js/main.5e6f7108.js",
+    "static/js/453.65f24f56.chunk.js": "/stem4all/static/js/453.65f24f56.chunk.js",
+    "index.html": "/stem4all/index.html",
+    "main.cb24ed6d.css.map": "/stem4all/static/css/main.cb24ed6d.css.map",
+    "main.5e6f7108.js.map": "/stem4all/static/js/main.5e6f7108.js.map",
+    "453.65f24f56.chunk.js.map": "/stem4all/static/js/453.65f24f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb24ed6d.css",
+    "static/js/main.5e6f7108.js"
+  ]
+}
