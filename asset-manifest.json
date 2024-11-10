@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/stem4all/static/css/main.cb24ed6d.css",
-    "main.js": "/stem4all/static/js/main.5e6f7108.js",
-    "static/js/453.65f24f56.chunk.js": "/stem4all/static/js/453.65f24f56.chunk.js",
-    "index.html": "/stem4all/index.html",
-    "main.cb24ed6d.css.map": "/stem4all/static/css/main.cb24ed6d.css.map",
-    "main.5e6f7108.js.map": "/stem4all/static/js/main.5e6f7108.js.map",
-    "453.65f24f56.chunk.js.map": "/stem4all/static/js/453.65f24f56.chunk.js.map"
+    "main.css": "/Stem4All/static/css/main.cb24ed6d.css",
+    "main.js": "/Stem4All/static/js/main.a24a0c08.js",
+    "static/js/453.65f24f56.chunk.js": "/Stem4All/static/js/453.65f24f56.chunk.js",
+    "index.html": "/Stem4All/index.html",
+    "main.cb24ed6d.css.map": "/Stem4All/static/css/main.cb24ed6d.css.map",
+    "main.a24a0c08.js.map": "/Stem4All/static/js/main.a24a0c08.js.map",
+    "453.65f24f56.chunk.js.map": "/Stem4All/static/js/453.65f24f56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb24ed6d.css",
-    "static/js/main.5e6f7108.js"
+    "static/js/main.a24a0c08.js"
   ]
 }
